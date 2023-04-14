@@ -36,7 +36,7 @@ Eu sou o Leonardo Bonato, programador Front-End e estudante de Análise e Desenv
  
 **CONECTE-SE COMIGO VIA:**
 
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/ [CLICANDO AQUI](https://www.instagram.com/leonardobonato_/)>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> [CLICANDO AQUI](https://www.instagram.com/leonardobonato_/)
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>[CLICANDO AQUI](https://www.linkedin.com/in/leonardo-bonato-09a272262/)
 
