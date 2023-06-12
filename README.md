@@ -7,8 +7,7 @@ Eu sou o Leonardo Bonato, programador Front-End e estudante de Análise e Desenv
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,tailwind,git,github,figma,linux,powershell,vscode" />
   </a>
 </p>
-
-**PRETENDO FUTURAMENTE ESTUDAR:**
+<p align="center"><b>PRETENDO FUTURAMENTE ESTUDAR:</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,py" />
@@ -16,8 +15,7 @@ Eu sou o Leonardo Bonato, programador Front-End e estudante de Análise e Desenv
 </p>
  <br />
  
-<p align="center">**CONECTE-SE COMIGO VIA:**</p>
-
+<p align="center"><b>CONECTE-SE COMIGO VIA:</b></p>
 
 <p align="center">
   <a href="https://skillicons.dev">
