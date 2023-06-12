@@ -1,6 +1,6 @@
 ### Olá! 😁
 
-Eu sou o Leonardo Bonato, programador Front-End e estudante de Análise e Desenvolvimento de sistemas, atualmente estou aprendendo a criando projetos por conta própria utilizando:
+Eu sou o Leonardo Bonato, programador Front-End e estudante de Análise e Desenvolvimento de sistemas, atualmente estou aprendendo e criando projetos por conta própria utilizando:
 
 💻 <br />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <br />
