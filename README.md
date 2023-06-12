@@ -4,10 +4,9 @@ Eu sou o Leonardo Bonato, programador Front-End e estudante de Análise e Desenv
 
 <p align="center">
   <a href="https://skillicons.dev%22%3E/
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,bootstrap,git,github,figma" />
   </a>
 </p>
-
 
 📚 Iniciando os estudos em:
 
