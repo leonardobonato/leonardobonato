@@ -3,8 +3,8 @@
 Eu sou o Leonardo Bonato, programador Front-End e estudante de Análise e Desenvolvimento de sistemas, atualmente estou aprendendo e criando projetos por conta própria utilizando:
 
 <p align="center">
-  <a href="https://skillicons.dev%22%3E/
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,bootstrap,git,github,figma" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 </p>
 
