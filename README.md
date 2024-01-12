@@ -4,7 +4,7 @@ Eu sou o Leonardo Bonato, programador FullStack e estudante de Análise e Desenv
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,git,figma, nodejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,git,figma,nodejs" />
   </a>
 </p>
 <p align="center"><b>PRETENDO FUTURAMENTE ESTUDAR:</b></p>
