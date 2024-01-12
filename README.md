@@ -1,6 +1,6 @@
 ### Olá! 😁
 
-Eu sou o Leonardo Bonato, programador Front-End e estudante de Análise e Desenvolvimento de sistemas, atualmente estou aprendendo e criando projetos por conta própria utilizando:
+Eu sou o Leonardo Bonato, programador FullStack e estudante de Análise e Desenvolvimento de sistemas, atualmente estou aprendendo e criando projetos por conta própria utilizando:
 
 <p align="center">
   <a href="https://skillicons.dev">
